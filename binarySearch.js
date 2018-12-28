@@ -11,8 +11,7 @@ const binarySearch = (arr, elem) => {
     }
     middle = Math.round((start + end) / 2);
   }
-  if (arr[middle] === elem) return middle;
-  return -1;
+  return arr[middle] === elem ? middle : -1;
 };
 
 module.exports = binarySearch;
