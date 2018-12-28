@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-in-js",
+  "version": "1.0.0",
+  "description": "Some algorithms implemented in javascript",
+  "main": "linearSearch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkiterian/algorithms-in-js.git"
+  },
+  "author": "mkiterian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkiterian/algorithms-in-js/issues"
+  },
+  "homepage": "https://github.com/mkiterian/algorithms-in-js#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
